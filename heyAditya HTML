@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hey Aditya | E-Commerce Website</title>
+    <link rel="stylesheet" href="heyAd.css">
+
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Reggae+One&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight&display=swap" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Benne&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="container">
+          <div class="navbar">
+             <img src="./Picsart_23-06-01_16-40-09-588.png" class="logo">
+                <nav>
+                   <ul class="navmenu">
+                     <li><a href="">Home</a></li>
+                     <li><a href="">Collections</a></li>
+                  <li><a href="">Contact</a></li>
+               <li><a href="">About</a></li>
+            </ul>
+        </nav>
+    <img src="./grocery-store.png" class="cart">
+</div>
+    <div class="content">
+       <a href="" class="btn">Start Building for Paid</a>
+         <h1>Design and Simplicity are at the core of our Website Builder. Easily Create, Customize, and <br> Promote a Stunning website that's Search <br>
+                    Engine Ready all on your own with the <br> Power of Mailchimps Platform.  </h1>
+               <p>Click to Visit More</p>
+                  <div class="arrow-icons">
+                    <img src="./pngwing.com (2).png">
+                      <img src="./pngwing.com (3).png">
+                   </div>
+                </div>
+</div>
+    <div class="mid-head">
+       <h1>Create a Website for Paid</h1>
+           <p>Customer satisfaction is a measurement that <br> 
+            determines how well a company's products or services meet customer expectations. <br>
+             It's one of the most important indicators of purchase intentions and customer loyalty. <br> As such, it helps predict business growth and revenue 
+   </p>
+<div class="img">
+       <img src="./web-development-1-1.png">    
+</div>
+</div>
+<footer>
+        <div class="social-links">
+             <ul>
+                <li class="social-items"><a href="#">Home</a></li>
+                <li class="social-items"><a href="#">Gallery</a></li>
+                <li class="social-items"><a href="#">NewThings</a></li>
+                <li class="social-items"><a href="#">Services</a></li>
+                <li class="social-items"><a href="#">AboutUs</a></li>
+                <li class="social-items"><a href="#">ContactUs</a></li>
+             </ul>
+        </div>
+        <div class="outer-footer">
+            Copyright &copy; heyAditya. All Rights Reserved.
+        </div>
+</footer>
+</body>
+</html>
